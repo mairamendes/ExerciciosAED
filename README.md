@@ -10,6 +10,6 @@ O projeto inclui:
 
 - Implementações de algoritmos e estruturas de dados em C#.
 
-- Resolução de problemas propostos no TP1.
+- Resolução de problemas propostos.
 
 - Testes para validação das soluções.
