@@ -1,9 +1,10 @@
 ﻿using System;
 
-class Program
+class ex1
 {
     private static void Main()
     {
+        
         int n = int.Parse(Console.ReadLine()); // Número de Registros 
         int[] tempo = new int[101]; 
         int contador = 0;
@@ -41,8 +42,9 @@ class Program
         {
             if (tempo[i] != 0)
             {
-                Console.WriteLine($"{i} {tempo[i]}");
+                Console.WriteLine($"{i} {tempo[i]}"); //Imprime numero do amigo e o tempo das mensagens
             }
         }
     }
+
 }
