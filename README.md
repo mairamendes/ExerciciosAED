@@ -1,1 +1,14 @@
-# TP1-ExerciciosAED
+# Exercícios: Algoritmos e Estruturas de Dados - PUC
+
+##Este repositório contém a resolução dos Trabalho Prático da disciplina de Algoritmos e Estruturas de Dados da PUC. O objetivo é aplicar conceitos fundamentais de algoritmos e estruturas de dados para resolver problemas computacionais de forma eficiente.
+
+### Conteúdo:
+ ...
+
+O projeto inclui:
+
+- Implementações de algoritmos e estruturas de dados em C#.
+
+- Resolução de problemas propostos no TP1.
+
+- Testes para validação das soluções.
