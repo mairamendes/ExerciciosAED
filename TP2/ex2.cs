@@ -1,6 +1,6 @@
 using System;
 
-class ex2
+class ex2tp2
 {
     /// <summary>
     /// A primeira linha da entrada contém um inteiro N indicando quantidade de números inteiros do primeiro vetor que estará na linha a seguir (2 <= N <= 100). A terceira linha da entrada contém um inteiro M indicando quantidade de números inteiros do segundo vetor que estará na linha a seguir (2 <= M <= 100). Em todo os dois vetores os núeros estarão em ordem crescente e não haverá números em comum entre os dois conjuntos.
