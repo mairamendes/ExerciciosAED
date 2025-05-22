@@ -66,7 +66,6 @@ A saída será gerada pelos comandos `pop` e `dequeue`.
 
 ```txt
 32
-
 s1;Movie;A Spark Story;Jason Sterman, Leanne Dare;Apthon Corbin, Louis Gonzales;;September 24, 2021;2021;TV-PG;88 min;Documentary;Two Pixar filmmakers strive to bring their uniquely personal SparkShorts visions to the screen.
 s2;Movie;Spooky Buddies;Robert Vince;Tucker Albrizzi, Diedrich Bader, Ameko Eks Mass Carroll, Max Charles, Tim Conway, Jennifer Elise Cox;United States, Canada;September 24, 2021;2011;G;93 min;Comedy, Fantasy, Kids;The puppies go on a spooky adventure through a mysterious haunted mansion in this fur-raising flick.
 s3;Movie;The Fault in Our Stars;Josh Boone;Shailene Woodley, Ansel Elgort, Laura Dern, Sam Trammell, Nat Wolff, Willem Dafoe;United States;September 24, 2021;2014;PG-13;127 min;Coming of Age, Drama, Romance;Hazel and Gus share a love that sweeps them on an unforgettable journey.
@@ -99,10 +98,7 @@ s29;TV_Show;Dug Days;;Bob Peterson, Ed Asner, Jordan Nagai;United States;Septemb
 s30;Movie;Cruella;Craig Gillespie;Emma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser, Emily Beecham, Kirby Howell-Baptiste;United States, United Kingdom;August 27, 2021;2021;PG-13;137 min;Crime, Drama;Witness the origin of Disney's most notorious and notoriously fashionable villain, Cruella de Vil.
 s31;Movie;Dan in Real Life;Peter Hedges;Steve Carell, Juliette Binoche, Dane Cook, John Mahoney, Emily Blunt, Alison Pill;United States;August 27, 2021;2007;PG-13;99 min;Comedy, Drama, Romance;A relationship expert falls in love with his brother's new girlfriend.
 s32;Movie;Disney Princess Remixed - An Ultimate Princess Celebration;Napoleon Dumo;Txunamy Oriz, Natalie Peyser, Dara Reneé, Frankie Rodriguez, Julia Lester, Ruth Righi;;August 27, 2021;2021;TV-G;22 min;Family, Music, Variety;Celebrate the timeless music of Disney Princess!
-
-
-## ⚙️ Comandos
-
+8
 push 2021
 pop 3
 queue Movie
